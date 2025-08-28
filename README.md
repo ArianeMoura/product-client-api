@@ -1,3 +1,3 @@
 # ProductClientHubAPI
 
-Este projeto Ã© uma API RESTful desenvolvida com C# e .NET. O objetivo do projeto Ã© ensinar como construir uma API completa, abordando os principais fundamentos de desenvolvimento backend, com boas prÃ¡ticas, validaÃ§Ãµes, tratamento de erros e persistÃªncia de dados utilizando o Entity Framework Core.
+API REST desenvolvida com C# e ASP.NET Core como parte do curso introdutório de C# e .NET da Rocketseat. Este projeto tem como objetivo ensinar, de forma prática, os fundamentos do desenvolvimento de APIs, abordando funcionalidades essenciais como criação, visualização, atualização e remoção de dados. Ao longo do curso, são explorados conceitos importantes como validações, tratamento de erros, integração com banco de dados por meio do Entity Framework, além de boas práticas de arquitetura e organização de código. Trata-se de uma base sólida voltada para a construção de aplicações modernas, escaláveis e bem estruturadas com a stack .NET. 
